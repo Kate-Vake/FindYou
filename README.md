@@ -1,8 +1,8 @@
-# FindYou
-CEN302- FindYou Project
+# JobPortal
+CEN302- JobPortal Project
 
 ## Introduction
-FindYou is designed to facilitate job posting and job search for both employers/recruiters and job seekers. It provides a platform for employers to advertise job openings and for job seekers to find relevant job opportunities.
+JobPortal is designed to facilitate job posting and job search for both employers/recruiters and job seekers. It provides a platform for employers to advertise job openings and for job seekers to find relevant job opportunities.
 
 ## Functionality
 
@@ -52,7 +52,7 @@ To run the job board website locally, follow these steps:
 Once the website is up and running, users can perform the following actions:
 
 ## Site Location
-The website is currently hosted at(https://findyou.al).
+The website is currently hosted at(https://JobPortal.al).
 
 - Employers/Recruiters:
   - Create an account and log in.

@@ -52,7 +52,7 @@ To run the job board website locally, follow these steps:
 Once the website is up and running, users can perform the following actions:
 
 ## Site Location
-The website is currently hosted at(https://jobseeker.al).
+The website is currently hosted at(https://findyou.al).
 
 - Employers/Recruiters:
   - Create an account and log in.
